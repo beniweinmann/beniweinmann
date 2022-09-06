@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beniweinmann: Beginner-Level in Coding & Web Development. 
-- 👀 I’m interested in coding, gaining experience.
+- 👋 Hi, I’m Beni Weinmann from Zürich, Switcherland: Beginner-Level in Coding & Web Development. 
+- 👀 I’m interested in coding & gaining experience.
 - 🌱 I’m currently learning Vue JS Version 3, later on Angular.
-- 💞️ I’m looking to collaborate with other career changer & more interesting people.
+- 💞️ I’m looking to collaborate with other career changers & more interesting people.
 - 📫 How to reach me (soon): contact form on www.bweinmann.ch (under construction)
 
 <!---
